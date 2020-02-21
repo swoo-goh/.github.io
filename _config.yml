@@ -1,1 +1,9 @@
 theme: jekyll-theme-slate
+url                      : "https://swoo-goh.github.io"
+baseurl                  : ""
+locale                   : "en-US"
+title                    : "swoo.goh's"
+title_separator          : "-"
+name                     : "sang woo"
+description              : "test blog"
+#repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
