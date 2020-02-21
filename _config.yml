@@ -1,6 +1,6 @@
 #remote_theme : mmistakes/minimal-mistakes
 #minimal_mistakes_skin    : "default"
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 url                      : "https://swoo-goh.github.io"
 baseurl                  : ""
 locale                   : "en-US"
