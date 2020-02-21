@@ -11,8 +11,8 @@ layout: archive
   {% endfor %}
 </ul>
 
-<p> 카테고리 : 
-{% for post in site.categories[page.category] %}
+<p> {% page.category %} 카테고리 : 
+{% for post in site.categories %}
     <a href="{{ post.url | absolute_url }}">
       {{ post.title }}
     </a>
