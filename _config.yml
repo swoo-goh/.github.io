@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR" #"en-US"
 title                    : "swoo.goh's"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -110,8 +110,8 @@ author:
   name             : "goh sang woo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Engineer"
-  location         : "Seoul"
-  email            :
+  location         : "Seoul, kr"
+  email            : "swoo.goh@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
