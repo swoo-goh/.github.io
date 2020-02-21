@@ -3,7 +3,7 @@ layout: archive
 ---
 
 <ul class="taxonomy__index">
-{% site.posts | group_by_exp: 'post', 'post.date | date: "[a-zA-Z]"' %}
+{{ site.posts | group_by_exp: 'post', 'post.date | date: "[a-zA-Z]"' }}
 </ul>
   
 {{ content }}
