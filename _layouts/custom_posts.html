@@ -3,7 +3,10 @@ layout: archive
 ---
 
 <ul class="taxonomy__index">
-{{ site.posts | group_by_exp: 'post', 'post.date | date: "[a-zA-Z]"' }}
+{% assign text_list =  site.posts | group_by_exp: 'post', 'post.date | date: "[a-zA-Z]"' %}
+{% for text in text_list %}
+    {{ text.name }}
+{% endfor %}
 </ul>
   
 {{ content }}
