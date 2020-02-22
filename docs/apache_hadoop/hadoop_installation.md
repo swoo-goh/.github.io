@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Installation
-parent: apache_hadoop
+parent: Apache Hadoop
 nav_order: 1
 ---
