@@ -17,7 +17,7 @@ DW/BI
 정보계
 {: .label .label-red }
 
-### 개요
+## 개요
 * why so serious
 
 # 메가박스 마케팅/캠페인 시스템
