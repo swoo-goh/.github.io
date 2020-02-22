@@ -7,6 +7,13 @@ nav_order: 2
 
 # :high_brightness: NS홈쇼핑 BDA
 
+빅데이터
+{: .label .label-green }
+DW/BI
+{: .label .label-red }
+정보계
+{: .label .label-blue }
+
 ### 프로젝트 개요
 * Hadoop 기반 DW/BI 시스템 신규 구축. 인터페이스(CDC, ETL, API 등)와 DW 적재가 주안점
 * 프로젝트 분류 : 빅데이터, DW/BI, 정보계
