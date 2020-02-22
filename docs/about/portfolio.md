@@ -7,6 +7,9 @@ nav_order: 2
 
 # NS홈쇼핑 BDA
 
+Hadoop 기반 DW/BI 시스템 신규 구축. 인터페이스(CDC, ETL, API 등)와 DW 적재가 주안점
+{: .fs-6 .fw-300 }
+
 빅데이터
 {: .label .label-blue }
 DW/BI
@@ -61,10 +64,10 @@ DW/BI
 
 # 메가박스 마케팅/캠페인 시스템
 
-DW/BI
-{: .label .label-green }
 캠페인
 {: .label .label-purple }
+DW/BI
+{: .label .label-green }
 정보계
 {: .label .label-red }
 
