@@ -8,11 +8,11 @@ nav_order: 2
 # NS홈쇼핑 BDA
 
 빅데이터
-{: .label .label-green }
-DW/BI
-{: .label .label-red }
-정보계
 {: .label .label-blue }
+DW/BI
+{: .label .label-green }
+정보계
+{: .label .label-red }
 
 ### 프로젝트 개요
 * Hadoop 기반 DW/BI 시스템 신규 구축. 인터페이스(CDC, ETL, API 등)와 DW 적재가 주안점
