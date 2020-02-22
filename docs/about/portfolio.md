@@ -59,7 +59,7 @@ DW/BI
 * 고객 응대등급 팩터에 따른 세그먼트 마트
 * 사용기술 : HiveQL, Hive, Impala, HDFS, KUDU
 
-# :high_brightness: 메가박스 마케팅/캠페인 시스템
+# 메가박스 마케팅/캠페인 시스템
 
 DW/BI
 {: .label .label-green }
