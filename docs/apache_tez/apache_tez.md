@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Apache Hadoop
+title: Apache Tez
 nav_order: 4
 ---

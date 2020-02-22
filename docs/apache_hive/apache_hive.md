@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Apache Hadoop
+title: Apache Hive
 nav_order: 3
 ---

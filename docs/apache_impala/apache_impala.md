@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Apache Hadoop
+title: Apache Impala
 nav_order: 5
 ---

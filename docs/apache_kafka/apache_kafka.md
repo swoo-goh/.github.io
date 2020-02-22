@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Apache Hadoop
+title: Apache Kafka
 nav_order: 7
 ---
