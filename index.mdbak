@@ -1,10 +1,9 @@
 ---
-layout: default
-title: Home
-nav_order: 1
-description: "swoo.go's"
-permalink: /
-hidden: true
+#layout: default
+#title: Home
+#nav_order: 1
+#description: "swoo.go's"
+#permalink: /
 ---
 
 # Focus on writing good documentation
