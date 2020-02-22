@@ -206,94 +206,50 @@ DW/BI
 * 
 
 # 외환은행 BPM (G2G)
-### 프로젝트 개요
-* 
-* 프로젝트 분류 : 계정계
-* 기간 : 2007년 03월 ~ 2007년 06월
-* 수행역할 : 설계, 개발, 운영
-### 프로젝트 환경
-* 데이터베이스 : Oracle EE
-* OS : AIX
-* 주요기술 : PL-SQL, ETL, EAI, NRT, Java, Struts, Jeus, MiPlatform, Filenet, JSP, HTML, Javascript
-### 유학생
+
+계정계
+{: .label .label-yellow }
+
+## 프로젝트 개요
 * 
 
 # 대우증권 국제 브로커리지
-### 프로젝트 개요
+
+기간계
+{: .label .label-yellow }
+
+## 프로젝트 개요
 * 
-* 프로젝트 분류 : 기간계
-* 기간 : 2007년 02월 ~ 2007년 03월
-* 수행역할 : 개발
-### 프로젝트 환경
-* 데이터베이스 : Oracle EE
-* OS : AIX
-* 주요기술 : Java, Struts, Jeus, MiPlatform
-### 국제 브로커리지
-* 
-### 보고서
-*
 
 # 농협 eShop
-### 프로젝트 개요
+
+쇼핑몰
+{: .label .label-purple }
+
+## 프로젝트 개요
 * 
-* 프로젝트 분류 : 기간계
-* 기간 : 2006년 10월 ~ 2007년 01월
-* 수행역할 : 개발
-### 프로젝트 환경
-* 데이터베이스 : Informix
-* OS : AIX
-* 주요기술 : Java, Jeus, JSP, HTML, Javascript
-### BO
-* 
-### Front
-*
 
 # 미래에셋 사고이미지
-### 프로젝트 개요
+
+기간계
+{: .label .label-yellow }
+
+## 프로젝트 개요
 * 
-* 프로젝트 분류 : 기간계
-* 기간 : 2006년 07월 ~ 2006년 09월
-* 수행역할 : 개발
-### 프로젝트 환경
-* 데이터베이스 : MS-SQL, Oracle EE
-* OS : Windows NT
-* 주요기술 : ASP, Filenet, HTML, Javascript, IIS
-### 사고조사 이미지
-* 
-### 조사지원
-*
-### 보고서
-*
 
 # 엘림넷
-### 프로젝트 개요
+
+시스템
+{: .label .label-purple }
+
+## 프로젝트 개요
 * 
-* 프로젝트 분류 : 플랫폼
-* 기간 : 2005년 02월 ~ 2006년 01월
-* 수행역할 : 운영
-### 프로젝트 환경
-* 데이터베이스 : MySQL, MS-SQL, Oracle EE
-* OS : Solais, Fedora
-* 주요기술 : MySQL, T-SQL, Java, JSP, HTML, Javascript, Shell, MRTG
-### 모니터링 시스템
-* 
-### 영세 업체 지원??
-*
 
 # 인카르타
-### 프로젝트 개요
+
+웹
+{: .label .label-purple }
+
+## 프로젝트 개요
 * 
-* 프로젝트 분류 : 플랫폼
-* 기간 : 1999년 08월 ~ 2002년 05월
-* 수행역할 : 설계, 개발, 운영
-> 모델링도 했지만 차마 ...
-### 프로젝트 환경
-* 데이터베이스 : MS-SQL, MySQL
-* OS : Windows NT, Red Hat
-* 주요기술 : ASP, Java, JSP, HTML, Javascript
-### 샤크몰 쇼핑몰 구축
-*
-### 인트라넷/웹사이트 구축
-* 
-### 인트라넷/웹사이트 운영
-*
+
