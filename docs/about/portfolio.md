@@ -12,72 +12,87 @@ nav_order: 2
 * 프로젝트 분류 : 빅데이터, DW/BI, 정보계
 * 기간 : 2019년 09월 ~ 2020년 02월
 * 수행역할 : TA, 설계, 개발
-"클러스터 구축부터 Hadoop 및 DW/BI 관련 A to Z"
+> 클러스터 구축부터 Hadoop 및 DW/BI 관련 A to Z
 
 ### 프로젝트 환경
 * 플랫폼 : Oracle BDA, Cloudera CDH (8 노드)
 * OS : Oracle Linux
 * 데이터베이스 : Oracle Exadata/EE, Hadoop, Hive, Impala, KUDU
 * 주요기술 : Hadoop, Hive, Impala, KUDU, Sqoop, Kafka, Hue, MIT Kerberos, Sentry, Spring Boot, Quartz Scheduler, Multi Thread, Embedded Tomcat
+
 ### Hadoop 클러스터 구축
 * 플랫폼 : Oracle BDA, Cloudera CDH
 * 주요 컴포넌트 : Hadoop, Hive, Impala, KUDU, Kafka, Hue, MIT Kerberos, Sentry
 * 클러스터 Capacity Planning 및 클러스터 컴포넌트 세부 설정 
 * MIT Kerberos 구축 및 정책 권한 설정. Linux, Windows 기반 (Tableau, WAS 등) Kerberos 연동 설정
+
 ### 스케줄링 서버
 * Quartz 스케줄러 및 Kafka 메시지 처리
 * 사용기술 : Spring Boot, Kafka, Quartz Scheduler, Multi Thread, MyBatis
+
 ### 스케줄링 에이전트
 * Kafka 메세지 처리 및 JOB 처리
 * 사용기술 : Spring Boot, Kafka, Multi Thread
+
 ### 인터페이스 어플리케이션 (ETL, API 등)
 * 스케줄링 및 JOB 메타 정보를 이용하여 ETL, API 인터페이스 데이터 적재 어플리케이션 구현
 * Hive Metastore 정보를 이용하여 Impala, KUDU 테이블 및 데이터 마이그레이션 어플리케이션 구현
 * 신규 ETL 인터페이스에 대한 초기적재 어플리케이션 구현
 * 사용기술 : Shell, Java, Python, JSON, Hadoop, Hive, Impala. KUDU, JSON Serde
+
 ### Rest API Server
 * DW/BI 관리자 WEB UI에서 Rest API를 이용하여 스케줄링, JOB, 마이그레이션 등 제어
 * 사용기술 : Spring, Quartz Scheduler, Embedded Tomcat, MyBatis, Kafka
+
 ### DW
 * 기간계/컨텍센터 테이블 500여개 ETL 인터페이스 및 DW 적재
 * 사용기술 : HiveQL, Hive, Impala, HDFS, KUDU, Oracle Exadata
+
 ### 고객 응대등급 데이터 마트
 * 고객 응대등급 팩터에 따른 세그먼트 마트
 * 사용기술 : HiveQL, Hive, Impala, HDFS, KUDU
 
 # :high_brightness: 메가박스 마케팅/캠페인 시스템
+
 ### 프로젝트 개요
 * 마케팅 및 캠페인을 위한 DW/BI 시스템 신규 구축
 * 프로젝트 분류 : DW/BI, 캠페인, 정보계
 * 기간 : 2019년 03월 ~ 2019년 09월
 * 수행역할 : DA, 모델링, 설계, 개발
+
 ### 프로젝트 환경
 * 데이터베이스 : Oracle EE/SE
 * OS : CentOS
 * 주요기술 : ER모델링, 다차원모델링, PL-SQL, SQL*PLUS, SQLLDR, Shell
+
 ### 아키텍처 및 공통
 * 전사 비즈니스 및 데이터를 분석하여, DW/BI의 개괄적인 데이터 모델 구축
 * DW/BI 프로세스 정립, 개발 프로세스 상세 정의 및 표준화
 * ETL 솔루션 검증 및 설계 개선
 * 사용기술 : ERD, PL-SQL, SQL*PLUS, SQLLDR, Shell
+
 ### 캠페인 결과 분석
 * 캠페인 결과 분석 관련 마트 (결과분석, 고객군, AB Test, 매출 등)
 * 사용기술 : ERD, PL-SQL
+
 ### 고객 세그먼트
 * 기본 고객 세그먼트 (성별, 연령, 지역 등)
 * 세분화 고객 세그먼트 (RFM 및 상품, 관람, 매출 등 관련 고객 세그먼트)
 * 사용기술 : ERD, PL-SQL
+
 ### 마켓쉐어 데이터 수집
 * 마켓쉐어 데이터 인터페이스 및 적재
 * 사용기술 : ERD, PL-SQL, SQLLDR
 
 # :high_brightness: SK브로드밴드 UI 5.0 로그 데이터 분석
+
 ### 프로젝트 개요
 * IPTV 셋톱박스 로그를 활용하여 마케팅 및 인터페이스 개선을 위한 데이터 분석 프로젝트
 * 프로젝트 분류 : 빅데이터, DW/BI, 정보계
 * 기간 : 2018년 07월 ~ 2019년 01월
 * 수행역할 : 모델링, 설계, 개발
 > 레거시 마트의 데이터 정합성 15%에서 70%로 향상 (원천의 로그시간 잔존 이슈 해결시 더욱 향상 될것으로 예측)
+
 ### 프로젝트 환경
 * 플랫폼 : Hortonworks HDP (200 노드)
 * 데이터베이스 : Oracle Exadata, Hadoop, Hive, Tez
