@@ -1,3 +1,11 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: "swoo.go's"
+permalink: /
+hidden: true
+---
 
 # Focus on writing good documentation
 {: .fs-9 }
