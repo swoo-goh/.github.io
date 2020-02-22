@@ -22,78 +22,30 @@ DW/BI
 
 # 메가박스 마케팅/캠페인 시스템
 
+마케팅 및 캠페인을 위한 DW/BI 시스템 신규 구축
+{: .fs-6 .fw-300 }
+
+DW/BI
+{: .label .label-green }
 캠페인
 {: .label .label-purple }
+정보계
+{: .label .label-red }
+
+### 개요
+* 마케팅 및 캠페인을 위한 DW/BI 시스템 신규 구축
+
+# SK브로드밴드 UI 5.0 로그 데이터 분석
+
+빅데이터
+{: .label .label-blue }
 DW/BI
 {: .label .label-green }
 정보계
 {: .label .label-red }
 
-### 프로젝트 개요
-* 마케팅 및 캠페인을 위한 DW/BI 시스템 신규 구축
-* 프로젝트 분류 : DW/BI, 캠페인, 정보계
-* 기간 : 2019년 03월 ~ 2019년 09월
-* 수행역할 : DA, 모델링, 설계, 개발
-
-### 프로젝트 환경
-* 데이터베이스 : Oracle EE/SE
-* OS : CentOS
-* 주요기술 : ER모델링, 다차원모델링, PL-SQL, SQL*PLUS, SQLLDR, Shell
-
-### 아키텍처 및 공통
-* 전사 비즈니스 및 데이터를 분석하여, DW/BI의 개괄적인 데이터 모델 구축
-* DW/BI 프로세스 정립, 개발 프로세스 상세 정의 및 표준화
-* ETL 솔루션 검증 및 설계 개선
-* 사용기술 : ERD, PL-SQL, SQL*PLUS, SQLLDR, Shell
-
-### 캠페인 결과 분석
-* 캠페인 결과 분석 관련 마트 (결과분석, 고객군, AB Test, 매출 등)
-* 사용기술 : ERD, PL-SQL
-
-### 고객 세그먼트
-* 기본 고객 세그먼트 (성별, 연령, 지역 등)
-* 세분화 고객 세그먼트 (RFM 및 상품, 관람, 매출 등 관련 고객 세그먼트)
-* 사용기술 : ERD, PL-SQL
-
-### 마켓쉐어 데이터 수집
-* 마켓쉐어 데이터 인터페이스 및 적재
-* 사용기술 : ERD, PL-SQL, SQLLDR
-
-# :high_brightness: SK브로드밴드 UI 5.0 로그 데이터 분석
-
-### 프로젝트 개요
+### 개요
 * IPTV 셋톱박스 로그를 활용하여 마케팅 및 인터페이스 개선을 위한 데이터 분석 프로젝트
-* 프로젝트 분류 : 빅데이터, DW/BI, 정보계
-* 기간 : 2018년 07월 ~ 2019년 01월
-* 수행역할 : 모델링, 설계, 개발
-> 레거시 마트의 데이터 정합성 15%에서 70%로 향상 (원천의 로그시간 잔존 이슈 해결시 더욱 향상 될것으로 예측)
-
-### 프로젝트 환경
-* 플랫폼 : Hortonworks HDP (200 노드)
-* 데이터베이스 : Oracle Exadata, Hadoop, Hive, Tez
-* OS : CentOS
-* 주요기술 : ER모델링, 다차원모델링, Hadoop, Hive, Tez, Oozie, Sqoop, Shell, Crontab
-### 로그 데이터 전처리
-* 로그 데이터 클렌징 및 변환
-* 로그 분류/그룹핑 디멘션 설계
-* 사용기술 : Hadoop, Hive, Tez, Oozie, Sqoop, Oracle Exadata
-> 로그 전처리 및 디멘션 작업은 기억에 남을 만한 성공작. 로그 정합성이 대폭 향상된 주요인
-### 로그 데이터 분석 마트
-* 사용자 행동 (메뉴 네비게이션, 선호장르, 컨텐츠 구매 등) 패턴 분석 마트
-* 사용자 인터페이스 활용 (배너, UI 메뉴/블록, 시놉시스, 리모컨 등) 분석 마트
-* 키즈 컨텐츠 이용 분석 마트
-* 사용기술 : Hadoop, Hive, Tez, Oozie, Sqoop, Oracle Exadata
-> 250억건 데이터 전처리 및 데이터 마트 적재 소요시간이 30분 미만으로 수행됨
-### 로그 연동 AI 음성인식 마트
-* AI 음성인식 로그 데이터를 활용하여 기능, 활용의 개선을 위한 분석 마트
-* 사용기술 : Hadoop, Hive, Tez, Oozie, Sqoop, Oracle Exadata
-### 개인화 추천블록 마트
-* 선호장르, 주이용블록 등에 따른 메뉴/블록, 추천블록을 개인화 구성하기 위한 마트
-* 사용기술 : Hadoop, Hive, Tez, Oozie, Sqoop, Oracle Exadata
-### 인터페이스
-* 셋톱박스, AI 음성인식 로그 ETL 인터페이스 및 적재
-* 추천블록 데이터 외부(AWS)로 ETL
-* 사용기술 : Hadoop, Hive, Tez, Oozie, Sqoop, Oracle Exadata, Shell, Crontab
 
 # :high_brightness: SK브로드밴드 Ocean 빅데이터 아키텍처 개선
 ### 프로젝트 개요
