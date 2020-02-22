@@ -109,180 +109,100 @@ DW/BI
 {: .label .label-blue }
 데이터 수집
 {: .label .label-purple }
-정보계
-{: .label .label-red }
 
 ### 프로젝트 개요
 * IoT 허브 데이터와 Wifi 가맹점 데이터 수집 및 분석
 
 # 외환은행 카드 영업지원 시스템 (CSMS)
+
+계정계
+{: .label .label-yellow }
+
 ### 프로젝트 개요
 * 외환은행, 하나은행 통합 관련 시스템 운영
-* 프로젝트 분류 : 계정계
-* 기간 : 2014년 05월 ~ 2015년 07월
-* 수행역할 : 모델링, 설계, 개발, 운영
-### 프로젝트 환경
-* 데이터베이스 : Oracle EE
-* OS : AIX
-* 주요기술 : PL-SQL, ETL, EAI, NRT, Java, Jeus, JSP, HTML, Javascript
-### 카드 모집인/영업점 영업지원
-*
-### 계정계 공통
-*
 
 # SKT Storage & Memory R&D PCI-E SSD Benchmark
+
+시스템
+{: .label .label-purple }
+
 ### 프로젝트 개요
 * 
-* 프로젝트 분류 : R&D
-* 기간 : 2013년 09월 ~ 2014년 02월
-* 수행역할 : 설계, 개발
-### 프로젝트 환경
-* 데이터베이스 : Oracle EE, Hadoop, MySQL
-* OS : CentOS
-* 주요기술 : fio, blktrace, nmon, sysbench, hammerdb, tpcc-mysql, shell
-### PCI-E SSD Disk 성능 측정
-*
-### PCI-E SSD Cache 성능 측정
-*
-### 실시스템과 동일한 환경에서 성능 측정
-*
-### 표준 벤치마킹 성능 측정
-*
 
 # NMS(Network Management System), SMS(System Management System) 솔루션
-### 프로젝트 개요
+
+데이터 수집
+{: .label .label-purple }
+
+## 프로젝트 개요
 * SK, KT에서 운용중인 솔루션 고도화
-* 프로젝트 분류 : 솔루션
-* 기간 : 2013년 04월 ~ 2013년 09월
-* 수행역할 : 모델링, 설계, 개발
-### 프로젝트 환경
-* 데이터베이스 : Oracle EE, MySQL
-* OS : CentOS
-* 주요기술 : PL-SQL, T-SQL, Java, Netty, GBP
-### JVM & 데이터베이스 튜닝
-*
-### 프레임워크 개선
-*
-### 대용량 데이터 어플리케이션
-*
 
 # 농협 통합 캠페인 시스템 (CMS)
-### 프로젝트 개요
+
+DW/BI
+{: .label .label-green }
+정보계
+{: .label .label-red }
+
+## 프로젝트 개요
 * 
-* 프로젝트 분류 : CRM, 캠페인, DW/BI, 정보계
-* 기간 : 2012년 09월 ~ 2012년 12월
-* 수행역할 : 설계, 개발
-### 프로젝트 환경
-* 데이터베이스 : Oracle EE
-* OS : AIX
-* 주요기술 : PL-SQL, T-SQL, Java, Flex, Weblogic
-### 캠페인 결과/실적 데이터 마트
-*
-### 인터페이스
-*
-### 캠페인 온라인 어플리케이션
-* ACS, TM
 
 # 외환은행 뱅킹 차세대 CRM
-### 프로젝트 개요
+
+DW/BI
+{: .label .label-green }
+정보계
+{: .label .label-red }
+
+## 프로젝트 개요
 * 
-* 프로젝트 분류 : CRM, DW/BI, 정보계
-* 기간 : 2012년 03월 ~ 2012년 09월
-* 수행역할 : TA, DA, AA
-### 프로젝트 환경
-* 데이터베이스 : SyBase IQ, Oracle EE
-* OS : AIX
-* 주요기술 : PL-SQL, T-SQL, ETL, EAI, NRT, Java, Jeus, Miplatform
-### 데이터 아키텍처
-*
-### 테크니컬 아키텍처
-*
-### 어플리케이션 아키텍처
-* 
-### 공통 개발
-*
-### 개발 지원
-*
 
 # 미쓰이스미토모(SMBC) 뱅킹 계정계 차세대
-### 프로젝트 개요
+
+계정계
+{: .label .label-yellow }
+
+## 프로젝트 개요
 * 
-* 프로젝트 분류 : 계정계, DW/BI
-* 기간 : 2011년 08월 ~ 2012년 02월
-* 수행역할 : 설계, 개발
-### 프로젝트 환경
-* 데이터베이스 : MS-SQL, Oracle EE
-* OS : Windows Server
-* 주요기술 : T-SQL, PL-SQL, Java, Spring Framework, xFrame, iBatis
-### 수신
-* 수신. 예금, 일계(이자, 세금 등), CC, 대인터넷뱅킹 수신 서비스
-### 데이터 인터페이스
-*
 
 # 외환은행 카드 CRM
-### 프로젝트 개요
+
+DW/BI
+{: .label .label-green }
+정보계
+{: .label .label-red }
+
+## 프로젝트 개요
 * 
-* 프로젝트 분류 : CRM, DW/BI, 정보계
-* 기간 : 2009년 08월 ~ 2011년 07월
-* 수행역할 : 모델링, 설계, 개발, 운영
-### 프로젝트 환경
-* 데이터베이스 : Oracle EE, SyBase IQ
-* OS : AIX
-* 주요기술 : PL-SQL, T-SQL, ETL, EAI, NRT, Java, Weblogic, Miplatform
-### 분석 CRM
-* 
-### 인터페이스
-*
-### 시그니처/플래티늄 카드 부가서비스 발급
-*
-### 카드운영센터 온라인 어플리케이션
-*
 
 # 동부생명 재무설계 시스템
+
+기간계
+{: .label .label-yellow }
+
 ### 프로젝트 개요
-* 
-* 프로젝트 분류 : 계정계
-* 기간 : 2008년 06월 ~ 2009년 02월
-* 수행역할 : 설계, 개발
-### 프로젝트 환경
-* 데이터베이스 : Oracle EE
-* OS : AIX
-* 주요기술 : ROR, Flex, PureMVC
-### 재무설계
 * 
 
 # 국민권익위원회 110 정부민원콜센터
+
+고객센터
+{: .label .label-purple }
+정보계
+{: .label .label-red }
+
 ### 프로젝트 개요
-* 
-* 프로젝트 분류 : 고객센터, 정보계
-* 기간 : 2007년 12월 ~ 2008년 05월
-* 수행역할 : 모델링, 설계, 개발
-### 프로젝트 환경
-* 데이터베이스 : Oracle EE
-* OS : AIX
-* 주요기술 : PL-SQL, Java, MiPlatform
-### 캠페인
-* 
-### 튜닝
-* 
-### 고객 데이터
-* 
-###
 * 
 
 # 씨티은행 카드 통합 CRM
-### 프로젝트 개요
-* 
-* 프로젝트 분류 : 고객센터, 정보계
-* 기간 : 2007년 08월 ~ 2007년 11월
-* 수행역할 : 모델링, 설계, 개발
-### 프로젝트 환경
-* 데이터베이스 : Oracle EE
-* OS : AIX
-* 주요기술 : PL-SQL, EAI, Java, JSP, HTML, Javascript
-### 운영 CRM
-* 
-### 튜닝
+
+고객센터
+{: .label .label-purple }
+DW/BI
+{: .label .label-green }
+정보계
+{: .label .label-red }
+
+## 프로젝트 개요
 * 
 
 # 외환은행 BPM (G2G)
