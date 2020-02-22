@@ -6,7 +6,7 @@ nav_order: 2
 ---
 
 2019
-{: .fs-10 .fw-400 }
+{: .fs-10 .fw-400, yellow-000 }
 
 # NS홈쇼핑 BDA
 
