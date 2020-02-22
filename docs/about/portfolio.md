@@ -61,6 +61,13 @@ DW/BI
 
 # :high_brightness: 메가박스 마케팅/캠페인 시스템
 
+DW/BI
+{: .label .label-green }
+캠페인
+{: .label .label-purple }
+정보계
+{: .label .label-red }
+
 ### 프로젝트 개요
 * 마케팅 및 캠페인을 위한 DW/BI 시스템 신규 구축
 * 프로젝트 분류 : DW/BI, 캠페인, 정보계
