@@ -7,7 +7,7 @@ nav_order: 2
 
 # NS홈쇼핑 BDA
 
-Hadoop 기반 DW/BI 시스템 신규 구축. 인터페이스(CDC, ETL, API 등)와 DW 적재가 주안점
+Hadoop 및 DW/BI 관련 A to Z
 {: .fs-6 .fw-300 }
 
 빅데이터
@@ -22,7 +22,6 @@ DW/BI
 * 프로젝트 분류 : 빅데이터, DW/BI, 정보계
 * 기간 : 2019년 09월 ~ 2020년 02월
 * 수행역할 : TA, 설계, 개발
-> 클러스터 구축부터 Hadoop 및 DW/BI 관련 A to Z
 
 ### 프로젝트 환경
 * 플랫폼 : Oracle BDA, Cloudera CDH (8 노드)
