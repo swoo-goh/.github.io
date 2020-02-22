@@ -5,7 +5,7 @@ parent: About
 nav_order: 2
 ---
 
-# :high_brightness: NS홈쇼핑 BDA
+# NS홈쇼핑 BDA
 
 빅데이터
 {: .label .label-green }
