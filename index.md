@@ -7,6 +7,6 @@ permalink: /
 ---
 
 # Welcome !!
-### Getting Started
-#### Dependencies
-### Referrence
+## Getting Started
+### Dependencies
+## Referrence
