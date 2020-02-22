@@ -2,5 +2,5 @@
 layout: default
 title: HDFS
 parent: apache_hadoop
-nav_order: 1
+nav_order: 2
 ---
