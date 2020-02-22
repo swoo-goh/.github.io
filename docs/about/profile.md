@@ -8,6 +8,7 @@ nav_order: 1
 # Profile
 
 네가 나를 모르는데, 난들 너를 알겠느냐
+{: .fs-6 .fw-300 }
 
 ## AAA
 
