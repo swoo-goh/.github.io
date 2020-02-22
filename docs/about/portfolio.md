@@ -5,6 +5,10 @@ parent: About
 nav_order: 2
 ---
 
+2019
+{: .fs-7 .fw-500 }
+{: .lh-tight }
+
 # NS홈쇼핑 BDA
 
 Hadoop 및 DW/BI 관련 A to Z
