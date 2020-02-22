@@ -6,8 +6,7 @@ nav_order: 2
 ---
 
 2019
-{: .fs-7 .fw-500 }
-{: .lh-tight }
+{: .fs-10 .fw-400 }
 
 # NS홈쇼핑 BDA
 
