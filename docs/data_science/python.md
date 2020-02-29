@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Python
-parent: data science
+parent: Data Science
 nav_order: 2
 ---

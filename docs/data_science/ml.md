@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Machine Learning
-parent: data science
+parent: Data Science
 nav_order: 3
 ---
