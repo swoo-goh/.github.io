@@ -1,6 +1,6 @@
 ---
 layout: default
-title: R with R Studio
+title: R
 parent: Data Science
 nav_order: 1
 ---
